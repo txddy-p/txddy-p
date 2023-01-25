@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @txddy-p
 - 👀 I’m interested in Python and Web development
-- 🌱 I’m currently learning C(for embedded applications),Python and starting JavaScript soon
+- 🌱 I’m currently thinking of starting JavaScript soon
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me piwanit@outlook.com
 
