@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @txddy-p
-- 👀 I’m interested in Python, AI and ML.
-- 🌱 I’m currently thinking of starting C programming soon
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m interested in Python, C and embedded systems.
+- 🌱 I’m currently learning C programming
+- 💞️ I’m looking to collaborate on Python and embedded sytems projects
 - 📫 How to reach me piwanit@outlook.com
 
 <!---
